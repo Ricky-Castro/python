@@ -1,0 +1,7 @@
+"""
+Operadores relacionais:
+
+== > >= < <= !=
+
+"""
+
