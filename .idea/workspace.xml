@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b854a5c-a60b-4eff-adc4-a9a07067a5dc" name="Default Changelist" comment="" />
+    <list default="true" id="2b854a5c-a60b-4eff-adc4-a9a07067a5dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CursoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XtgaeT78LVQlVy7acAzlxpPZKR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,30 +30,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Documentação e funções built-in úteis">
-    <configuration name="Aula7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula7/Aula7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.While - estrutura de repetição em Python">
     <configuration name="Aula8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,13 +119,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="While - estrutura de repetição em Python" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/CursoPython-X6tQgT0W/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While - estrutura de repetição em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Documentação e funções built-in úteis" />
         <item itemvalue="Python.Qtd_caracteres" />
         <item itemvalue="Python.Aula9" />
         <item itemvalue="Python.Aula8" />
-        <item itemvalue="Python.Aula7" />
       </list>
     </recent_temporary>
   </component>
@@ -154,37 +163,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1893" height="333" key="GridCell.Tab.0.bottom" timestamp="1581880960177">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="379" y="0" key="#While_-_estrutura_de_repetição_em_Python" timestamp="1581979929972">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state x="379" y="0" key="#While_-_estrutura_de_repetição_em_Python/0.0.1366.732@0.0.1366.732" timestamp="1581979929972" />
+    <state width="1046" height="131" key="GridCell.Tab.0.bottom" timestamp="1581980719563">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1046" height="131" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1581980719563" />
     <state width="1893" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1893" height="333" key="GridCell.Tab.0.center" timestamp="1581880960177">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1046" height="131" key="GridCell.Tab.0.center" timestamp="1581980719539">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1046" height="131" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1581980719539" />
     <state width="1893" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1893" height="333" key="GridCell.Tab.0.left" timestamp="1581880960176">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1046" height="131" key="GridCell.Tab.0.left" timestamp="1581980719537">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1046" height="131" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1581980719537" />
     <state width="1893" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960176" />
-    <state width="1893" height="333" key="GridCell.Tab.0.right" timestamp="1581880960177">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1046" height="131" key="GridCell.Tab.0.right" timestamp="1581980719558">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1046" height="131" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1581980719558" />
     <state width="1893" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1893" height="333" key="GridCell.Tab.1.bottom" timestamp="1581880960178">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1325" height="200" key="GridCell.Tab.1.bottom" timestamp="1581980302585">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1325" height="200" key="GridCell.Tab.1.bottom/0.0.1366.732@0.0.1366.732" timestamp="1581980302585" />
     <state width="1893" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960178" />
-    <state width="1893" height="333" key="GridCell.Tab.1.center" timestamp="1581880960178">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1325" height="200" key="GridCell.Tab.1.center" timestamp="1581980302582">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1325" height="200" key="GridCell.Tab.1.center/0.0.1366.732@0.0.1366.732" timestamp="1581980302582" />
     <state width="1893" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960178" />
-    <state width="1893" height="333" key="GridCell.Tab.1.left" timestamp="1581880960178">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1325" height="200" key="GridCell.Tab.1.left" timestamp="1581980302581">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1325" height="200" key="GridCell.Tab.1.left/0.0.1366.732@0.0.1366.732" timestamp="1581980302581" />
     <state width="1893" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960178" />
-    <state width="1893" height="333" key="GridCell.Tab.1.right" timestamp="1581880960178">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1325" height="200" key="GridCell.Tab.1.right" timestamp="1581980302584">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state width="1325" height="200" key="GridCell.Tab.1.right/0.0.1366.732@0.0.1366.732" timestamp="1581980302584" />
     <state width="1893" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960178" />
     <state x="352" y="77" key="SettingsEditor" timestamp="1581880687041">
       <screen x="0" y="0" width="1920" height="1040" />
