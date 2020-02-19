@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b854a5c-a60b-4eff-adc4-a9a07067a5dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CursoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_vImage/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_vImage/design.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_vImage/designe.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.App">
+  <component name="RunManager" selected="Python.app">
     <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,27 +123,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Qtd_caracteres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula11/Qtd_caracteres.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="While - estrutura de repetição em Python" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,13 +144,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto_vImage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto_vImage/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.App" />
         <item itemvalue="Python.For in - Estrutura de repetição em Python" />
         <item itemvalue="Python.Iterando strings com while em Python" />
         <item itemvalue="Python.Documentação e funções built-in úteis" />
-        <item itemvalue="Python.Qtd_caracteres" />
       </list>
     </recent_temporary>
   </component>
@@ -187,30 +188,33 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="379" y="0" key="#While_-_estrutura_de_repetição_em_Python" timestamp="1581979929972">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="379" y="0" key="#While_-_estrutura_de_repetição_em_Python/0.0.1366.732@0.0.1366.732" timestamp="1581979929972" />
-    <state width="1046" height="131" key="GridCell.Tab.0.bottom" timestamp="1582072638540">
+    <state width="1046" height="239" key="GridCell.Tab.0.bottom" timestamp="1582113122015">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1582072638540" />
+    <state width="1046" height="239" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1582113122015" />
     <state width="1893" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="131" key="GridCell.Tab.0.center" timestamp="1582072638531">
+    <state width="1046" height="239" key="GridCell.Tab.0.center" timestamp="1582113122010">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1582072638531" />
+    <state width="1046" height="239" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1582113122010" />
     <state width="1893" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="131" key="GridCell.Tab.0.left" timestamp="1582072638507">
+    <state width="1046" height="239" key="GridCell.Tab.0.left" timestamp="1582113122006">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1582072638507" />
+    <state width="1046" height="239" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1582113122006" />
     <state width="1893" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960176" />
-    <state width="1046" height="131" key="GridCell.Tab.0.right" timestamp="1582072638538">
+    <state width="1046" height="239" key="GridCell.Tab.0.right" timestamp="1582113122014">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1582072638538" />
+    <state width="1046" height="239" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1582113122014" />
     <state width="1893" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
     <state width="1325" height="200" key="GridCell.Tab.1.bottom" timestamp="1581982110596">
       <screen x="0" y="0" width="1366" height="732" />
