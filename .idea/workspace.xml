@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b854a5c-a60b-4eff-adc4-a9a07067a5dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/For in - Estrutura de repetição em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterando strings com while em Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CursoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.For in - Estrutura de repetição em Python">
-    <configuration name="Aula9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.App">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula9/Aula9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.App" />
         <item itemvalue="Python.For in - Estrutura de repetição em Python" />
         <item itemvalue="Python.Iterando strings com while em Python" />
         <item itemvalue="Python.Documentação e funções built-in úteis" />
         <item itemvalue="Python.Qtd_caracteres" />
-        <item itemvalue="Python.Aula9" />
       </list>
     </recent_temporary>
   </component>
@@ -191,25 +192,25 @@
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="379" y="0" key="#While_-_estrutura_de_repetição_em_Python/0.0.1366.732@0.0.1366.732" timestamp="1581979929972" />
-    <state width="1046" height="131" key="GridCell.Tab.0.bottom" timestamp="1581987792264">
+    <state width="1046" height="131" key="GridCell.Tab.0.bottom" timestamp="1582072638540">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1581987792264" />
+    <state width="1046" height="131" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1582072638540" />
     <state width="1893" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="131" key="GridCell.Tab.0.center" timestamp="1581987792259">
+    <state width="1046" height="131" key="GridCell.Tab.0.center" timestamp="1582072638531">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1581987792259" />
+    <state width="1046" height="131" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1582072638531" />
     <state width="1893" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="131" key="GridCell.Tab.0.left" timestamp="1581987792256">
+    <state width="1046" height="131" key="GridCell.Tab.0.left" timestamp="1582072638507">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1581987792256" />
+    <state width="1046" height="131" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1582072638507" />
     <state width="1893" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960176" />
-    <state width="1046" height="131" key="GridCell.Tab.0.right" timestamp="1581987792262">
+    <state width="1046" height="131" key="GridCell.Tab.0.right" timestamp="1582072638538">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1046" height="131" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1581987792262" />
+    <state width="1046" height="131" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1582072638538" />
     <state width="1893" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
     <state width="1325" height="200" key="GridCell.Tab.1.bottom" timestamp="1581982110596">
       <screen x="0" y="0" width="1366" height="732" />
@@ -231,9 +232,10 @@
     </state>
     <state width="1325" height="200" key="GridCell.Tab.1.right/0.0.1366.732@0.0.1366.732" timestamp="1581982110576" />
     <state width="1893" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960178" />
-    <state x="352" y="77" key="SettingsEditor" timestamp="1581880687041">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="250" y="3" key="SettingsEditor" timestamp="1582068849318">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
+    <state x="250" y="3" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1582068849318" />
     <state x="352" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581880687041" />
     <state x="347" y="12" width="670" height="676" key="search.everywhere.popup" timestamp="1581986270692">
       <screen x="0" y="0" width="1366" height="732" />
