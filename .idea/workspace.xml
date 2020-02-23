@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b854a5c-a60b-4eff-adc4-a9a07067a5dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CRUD com Pymysql no MySQL e Mariadb Server/mariadb_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CursoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD com Pymysql no MySQL e Mariadb Server/mariadb_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD com Pymysql no MySQL e Mariadb Server/mariadb_mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.mariadb_mysql">
-    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula1/Aula1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,10 +168,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.mariadb_mysql" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.Aula1" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.bd_sqlite" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.App" />
       </list>
     </recent_temporary>
   </component>
@@ -198,30 +200,38 @@
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="379" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.732@0.0.1366.732" timestamp="1582243259574" />
-    <state width="1046" height="239" key="GridCell.Tab.0.bottom" timestamp="1582327868543">
-      <screen x="0" y="0" width="1366" height="742" />
+    <state x="1086" y="40" width="805" height="982" key="CommitChangelistDialog2" timestamp="1582479766373">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1086" y="40" width="805" height="982" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582479766373" />
+    <state width="1090" height="206" key="GridCell.Tab.0.bottom" timestamp="1582481450761">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1046" height="239" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1582246300403" />
     <state width="1046" height="239" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1582327868543" />
     <state width="1893" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="239" key="GridCell.Tab.0.center" timestamp="1582327868536">
-      <screen x="0" y="0" width="1366" height="742" />
+    <state width="1090" height="206" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582481450761" />
+    <state width="1090" height="206" key="GridCell.Tab.0.center" timestamp="1582481450761">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1046" height="239" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1582246300380" />
     <state width="1046" height="239" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1582327868536" />
     <state width="1893" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
-    <state width="1046" height="239" key="GridCell.Tab.0.left" timestamp="1582327868532">
-      <screen x="0" y="0" width="1366" height="742" />
+    <state width="1090" height="206" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582481450761" />
+    <state width="1090" height="206" key="GridCell.Tab.0.left" timestamp="1582481450760">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1046" height="239" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1582246300377" />
     <state width="1046" height="239" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1582327868532" />
     <state width="1893" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960176" />
-    <state width="1046" height="239" key="GridCell.Tab.0.right" timestamp="1582327868539">
-      <screen x="0" y="0" width="1366" height="742" />
+    <state width="1090" height="206" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582481450760" />
+    <state width="1090" height="206" key="GridCell.Tab.0.right" timestamp="1582481450761">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1046" height="239" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1582246300401" />
     <state width="1046" height="239" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1582327868539" />
     <state width="1893" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581880960177" />
+    <state width="1090" height="206" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582481450761" />
     <state width="1325" height="200" key="GridCell.Tab.1.bottom" timestamp="1581982110596">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
